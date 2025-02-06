@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: MonringK
+description: The official website of MonringK on GitHub
+github:
+  is_project_page: true
+  owner_url: https://github.com/MorningK
+  owner_name: MorningK
+  repository_url: https://github.com/MorningK/morningk.github.io
+  repository_name: morningk.github.io
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
